@@ -1,2 +1,1 @@
-#!/bin/bash
-C-Language
+My rubber ducke_y
